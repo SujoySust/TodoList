@@ -1,0 +1,10 @@
+body{
+    background: url('todolist.jpg');
+}
+.card{
+    background: url('background.jpg');
+}
+.card span{
+    color: #fff;
+    text-align: center;
+}
